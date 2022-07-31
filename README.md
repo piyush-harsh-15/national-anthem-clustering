@@ -19,7 +19,7 @@ For getting started, we need the data. The author has published the dataset on k
 
 ## Color Coding
 
-![map](color%20code.png)
+![color code](code.png)
 
 # Clustering & Word cloud
 

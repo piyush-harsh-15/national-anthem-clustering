@@ -25,11 +25,11 @@ For getting started, we need the data. The author has published the dataset on k
 
 ### Cluster 1 - Glory
 
-<p align="center"><img align="center" alt="GIF" src="cluster 1.png" width="300px"/></p>
+<p align="center"><img align="center" alt="GIF" src="clusters\cluster 1.png" width="300px"/></p>
 
 ### Word Cloud 1 
 
-<p align="center"><img align="center" alt="GIF" src="cluster 1 (2).png" width="300px"/></p>
+<p align="center"><img align="center" alt="GIF" src="clusters/cluster 1 (2).png" width="300px"/></p>
 
 ---------------------------------------
 

@@ -19,79 +19,78 @@ For getting started, we need the data. The author has published the dataset on k
 
 ## Color Coding
 
-<p align="center"><img align="center" alt="GIF" src="color code.png" width="300px"/></p>
+![map](color%20code.png)
 
 # Clustering & Word cloud
 
 ### Cluster 1 - Glory
 
-<p align="center"><img align="center" alt="GIF" src="clusters\cluster 1.png" width="300px"/></p>
+![Cluster 1](clusters/Cluster%201.png)
 
 ### Word Cloud 1 
 
-<p align="center"><img align="center" alt="GIF" src="clusters/cluster 1 (2).png" width="300px"/></p>
+![Cluster 1](clusters/Cluster%201%20(2).png)
 
 ---------------------------------------
 
 ### Cluster 2 - People
 
-<p align="center"><img align="center" alt="GIF" src="cluster 2.png" width="300px"/></p>
+![Cluster 2](clusters/Cluster%202.png)
 
 ### Word Cloud 2
 
-<p align="center"><img align="center" alt="GIF" src="cluster 2 (2).png" width="300px"/></p>
+![Cluster 2](clusters/Cluster%202%20(2).png)
 
 ------------------------------------
 
 ### Cluster 3 - Land
 
-<p align="center"><img align="center" alt="GIF" src="cluster 3.png" width="300px"/></p>
+![Cluster 3](clusters/Cluster%203.png)
 
 ### Word Cloud 3
 
-<p align="center"><img align="center" alt="GIF" src="cluster 3 (2).png" width="300px"/></p>
+![Cluster 3](clusters/Cluster%203%20(2).png)
 
 ------------------------------------
 
 ### Cluster 4 - fatherland
 
-<p align="center"><img align="center" alt="GIF" src="cluster 4.png" width="300px"/></p>
+![Cluster 4](clusters/Cluster%204.png)
 
 ### Word Cloud 4
 
-<p align="center"><img align="center" alt="GIF" src="cluster 4 (2).png" width="300px"/></p>
-
+![Cluster 4](clusters/Cluster%204%20(2).png)
 ------------------------------------
 
 ### Cluster 5 - Liberty
 
-<p align="center"><img align="center" alt="GIF" src="cluster 5.png" width="300px"/></p>
+![Cluster 5](clusters/Cluster%205.png)
 
 ### Word Cloud 5
 
-<p align="center"><img align="center" alt="GIF" src="cluster 5 (2).png" width="300px"/></p>
+![Cluster 5](clusters/Cluster%205%20(2).png)
 
 ------------------------------------
 
 ### Cluster 6 - Freedom land
 
-<p align="center"><img align="center" alt="GIF" src="cluster 6.png" width="300px"/></p>
+![Cluster 6](clusters/Cluster%206.png)
 
 ### Word Cloud 6
 
-<p align="center"><img align="center" alt="GIF" src="cluster 6 (2).png" width="300px"/></p>
+![Cluster 6](clusters/Cluster%206%20(2).png)
 
 ------------------------------------
 
 ### Cluster 7 - Island nation
 
-<p align="center"><img align="center" alt="GIF" src="cluster 7.png" width="300px"/></p>
+![Cluster 7](clusters/Cluster%207.png)
 
-### Word Cloud 7
+### Word Cloud 2
 
-<p align="center"><img align="center" alt="GIF" src="cluster 7 (2).png" width="300px"/></p>
+![Cluster 7](clusters/Cluster%207%20(2).png)
 
 
 # Results
 
-<p align="center"><img align="center" alt="GIF" src="map.png" width="300px"/></p>
+![map](map.png)
